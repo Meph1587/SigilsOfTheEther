@@ -1,2 +1,5 @@
-# SigilsOfTheEther
-Cast Sigils into the Ether
+# Sigils of the Ether
+
+```
+Do with this what thou wilt
+```
